@@ -1,0 +1,23 @@
+
+
+  body {
+      background-color: #A760FF;
+
+  }
+
+  hr {
+    background-color: none;
+    border-style: none none dotted none;
+    border-width: 10px;
+    border-color: #FFDAAF;
+    height: 0;
+    width: 20%;
+  }
+
+  h3 {
+    color: orange;
+  }
+
+  h1{
+    color: #FFCC8F;
+  }
